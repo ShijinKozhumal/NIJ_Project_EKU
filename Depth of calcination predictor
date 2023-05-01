@@ -1,0 +1,16 @@
+Dowload the compressed file
+https://drive.google.com/file/d/1GOPupFpw-5svaCU8CdSnXg3sE2lGEmdn/view?usp=share_link
+
+Unzip the compressed file
+
+Open the 'dist' folder.
+
+Double click to launch 'depth_of_calcination_predictor'
+
+Enter a positive number for Heat Flux (Unit: kW/m²).
+
+Enter a number for Duration of Exposure (Unit: Seconds).
+
+Click 'Calculate' to get Depth of Calcination value in mm.
+
+If the input values are modified, click 'Calculate' again to get the new Depth of Calcination value in mm.
